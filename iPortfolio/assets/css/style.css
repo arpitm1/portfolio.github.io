@@ -70,14 +70,14 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #00000098;
   overflow-y: auto;
 }
 #header .profile img {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 8px solid #00000098;
 }
 #header .profile h1 {
   font-size: 24px;
@@ -394,7 +394,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #149ddd;
+  background-color: #00000098;
 }
 
 /*--------------------------------------------------------------
